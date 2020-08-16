@@ -1,15 +1,23 @@
-# flutter_login_signup
+# Flutter Login Signup UI Demo
 
-A Flutter application that demonstrate login signup UI and navigation.
 
-## Getting Started
+This project demostrates use of TMDB movie API
+.
 
-This project is a starting point for a Flutter application.
+Following components are used in this Flutter project:
 
-A few resources to get you started if this is your first Flutter project:
+- [Login UI]
+- [Signup UI]
+- [Forgot Password UI]
+- [Login Signup Validation]
+- [Custom App Bar]
+- [Bottom App Bar]
+- [Custom Alert]
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Application Screenshots(Android)
+
+<img src="https://github.com/ervinod/flutter_login_signup/blob/master/screenshots/screenshot1.jpg" width="300"><img src="https://github.com/ervinod/flutter_login_signup/blob/master/screenshots/screenshot2.jpg" width="300"><img src="https://github.com/ervinod/flutter_login_signup/blob/master/screenshots/screenshot3.jpg" width="300"><img src="https://github.com/ervinod/flutter_login_signup/blob/master/screenshots/screenshot4.jpg" width="300"><img src="https://github.com/ervinod/flutter_login_signup/blob/master/screenshots/screenshot5.jpg" width="300"><img src="https://github.com/ervinod/flutter_login_signup/blob/master/screenshots/screenshot6.jpg" width="300">
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
