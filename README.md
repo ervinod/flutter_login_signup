@@ -1,7 +1,7 @@
 # Flutter Login Signup UI Demo
 
 
-This project demostrates use of TMDB movie API
+This project demostrates UI designing and use of some Flutter Widgets
 .
 
 Following components are used in this Flutter project:
